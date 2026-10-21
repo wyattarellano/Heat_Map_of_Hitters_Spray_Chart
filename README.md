@@ -3,4 +3,4 @@ This is a side project I'm working on for data and software engineering experien
 
 # Why?
 
-There are plenty of spray charts out there for baseball hitters, however I have not been able to find a heat map for a hitter based upon a pitcher's style. This repo will have all the code to create a heat map on a hitters spray chart for optimal defensive positioning
+There are plenty of spray charts out there for baseball hitters, however I have not been able to find a heat map for a hitter based upon a pitcher's style. This repo will have all the code to create a heat map on a hitters spray chart for optimal defensive positioning.
