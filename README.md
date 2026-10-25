@@ -1,7 +1,7 @@
 # Heat_Map_of_Hitters_Spray_Chart
 This is a side project I'm working on for data and software engineering experience. I want to produce a heat map of a hitter's spray chart for a given pitcher.
 
-# Why?
+## Why?
 
 There are plenty of spray charts out there for baseball hitters, however I have not been able to find a heat map for a hitter based upon a pitcher's style. This repo will have all the code to create a heat map on a hitters spray chart for optimal defensive positioning.
 
@@ -55,11 +55,13 @@ If a name matches more than one player, the script lists the matching players an
 
 The script looks up which hand the target pitcher throws with. It then maps where the hitter's batted balls went against **all** pitchers who throw with that hand during the date range. Home runs are left out, since fielders can't position for them. Each hexagon's color shows the share of the hitter's batted balls that landed there.
 
-# Acknowledgement
+<img width="1328" height="1423" alt="image" src="https://github.com/user-attachments/assets/23dc94b2-0204-4dd3-8e41-b3bfd91b73e4" />
+
+## Acknowledgement
 
 I created this project because of my interest in baseball savant and data analytics. I want to thank my coaches at Seton Hall University for always being there to help me out with any questions I have during my time here
 
-# Credit
+## Credit
 
 I used pybaseball to create this. The link to it is here: https://github.com/jldbc/pybaseball
 
